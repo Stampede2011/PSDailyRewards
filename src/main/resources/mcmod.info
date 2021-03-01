@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "PSDailyRewards",
+    "name": "PSDailyRewards",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
