@@ -91,7 +91,7 @@ public class PSDailyRewards {
 
         refreshRewards();
 
-        Sponge.getCommandManager().register(instance, Base.build(), "psdailyrewards", "psdr", "dailyrewards", "dr", "daily");
+        Sponge.getCommandManager().register(instance, Base.build(), "psdailyrewards", "psdailyreward", "psdr", "dailyrewards", "dailyreward", "dr", "daily");
     }
 
     public static PSDailyRewards getInstance() {
